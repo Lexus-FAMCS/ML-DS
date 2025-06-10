@@ -2,12 +2,14 @@
 
 ✨ **Core Domains**
 - Natural Language Process
+- - Computer Vision
 - Generative AI Models
-- Computer Vision
 
 This repository contains my solutions to various Machine Learning (ML) and Data Science (DS) tasks, including:
 
     NLP tasks (from Lena Voita's course)
+
+    Computer Vision tasks (Object-Detection, Segmentation)
 
     ML/DL competitions & real-world problems (from DLS and other sources)
 
@@ -32,12 +34,4 @@ This repository contains my solutions to various Machine Learning (ML) and Data 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-🎯 **Next Steps**
-
-    Adding more Kaggle competitions
-
-    Implementing MLOps pipelines (MLflow, DVC)
-
-    Expanding into LLM 
-
-**Last Updated**: [04/09/2025]
+**Last Updated**: [06/10/2025]
